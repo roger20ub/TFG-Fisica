@@ -1,5 +1,4 @@
 import os
-import time
 import subprocess
 from pathlib import Path 
 from astropy.io import fits
