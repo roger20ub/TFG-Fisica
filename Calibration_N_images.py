@@ -1,5 +1,4 @@
 import os
-import time
 from astropy.io import fits
 from concurrent.futures import ThreadPoolExecutor
 from numba import vectorize, float32, float64
