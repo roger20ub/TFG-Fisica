@@ -1,4 +1,3 @@
-import time
 import subprocess
 from astropy.io import fits
 from concurrent.futures import ThreadPoolExecutor
